@@ -5,7 +5,10 @@ jQuery validate errorPlacement on single element
 
 While validating form using jQuery Validate, if you need to change the error placement of one or more specific elements, then you can do this using errorPlacement option supported by jQuery validate.
 
-Example:
+Demo:
+<a href="http://demo.pingbrains.com/jquery-validate-errorplacement-on-single-element/">http://demo.pingbrains.com/jquery-validate-errorplacement-on-single-element/</a>
+
+Code:
 
 ```
 	<form action="" methpd="post" id="sample-form">
@@ -62,5 +65,4 @@ Example:
 
 Above code will throw the error message (for checkbox element), after the div that wraps checkbox label. 
 
-Demo:
-<a href="http://demo.pingbrains.com/jquery-validate-errorplacement-on-single-element/">http://demo.pingbrains.com/jquery-validate-errorplacement-on-single-element/</a>
+
